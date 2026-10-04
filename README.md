@@ -31,6 +31,7 @@ The system retrieves relevant information from an uploaded research paper and us
 
 ## 🏗️ System Architecture
 
+```text
 Research Paper PDF
         ↓
    PDF Extraction
